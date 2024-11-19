@@ -83,6 +83,4 @@ else:
     display(Image(output_path))
 ```
 Output :
-```
 ![download (1)](https://github.com/user-attachments/assets/cf9c7ea0-c6cf-4e0a-bbd8-e070568e6262)
-```
