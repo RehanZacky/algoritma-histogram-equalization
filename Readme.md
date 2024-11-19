@@ -1,3 +1,4 @@
+# Histogram-Equalization
 ```python
 # Import libraries
 import cv2
@@ -80,4 +81,8 @@ else:
 
     # Display saved image
     display(Image(output_path))
+```
+Output :
+```
+
 ```
